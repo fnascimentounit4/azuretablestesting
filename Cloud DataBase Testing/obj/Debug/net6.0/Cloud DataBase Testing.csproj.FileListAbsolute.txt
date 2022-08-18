@@ -1,0 +1,31 @@
+C:\Users\FNASCIME\source\repos\Cloud DataBase Testing\Cloud DataBase Testing\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\FNASCIME\source\repos\Cloud DataBase Testing\Cloud DataBase Testing\bin\Debug\net6.0\appsettings.json
+C:\Users\FNASCIME\source\repos\Cloud DataBase Testing\Cloud DataBase Testing\bin\Debug\net6.0\Cloud DataBase Testing.exe
+C:\Users\FNASCIME\source\repos\Cloud DataBase Testing\Cloud DataBase Testing\bin\Debug\net6.0\Cloud DataBase Testing.deps.json
+C:\Users\FNASCIME\source\repos\Cloud DataBase Testing\Cloud DataBase Testing\bin\Debug\net6.0\Cloud DataBase Testing.runtimeconfig.json
+C:\Users\FNASCIME\source\repos\Cloud DataBase Testing\Cloud DataBase Testing\bin\Debug\net6.0\Cloud DataBase Testing.dll
+C:\Users\FNASCIME\source\repos\Cloud DataBase Testing\Cloud DataBase Testing\bin\Debug\net6.0\Cloud DataBase Testing.pdb
+C:\Users\FNASCIME\source\repos\Cloud DataBase Testing\Cloud DataBase Testing\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\FNASCIME\source\repos\Cloud DataBase Testing\Cloud DataBase Testing\bin\Debug\net6.0\Azure.Data.Tables.dll
+C:\Users\FNASCIME\source\repos\Cloud DataBase Testing\Cloud DataBase Testing\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\FNASCIME\source\repos\Cloud DataBase Testing\Cloud DataBase Testing\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\FNASCIME\source\repos\Cloud DataBase Testing\Cloud DataBase Testing\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\FNASCIME\source\repos\Cloud DataBase Testing\Cloud DataBase Testing\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\FNASCIME\source\repos\Cloud DataBase Testing\Cloud DataBase Testing\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\FNASCIME\source\repos\Cloud DataBase Testing\Cloud DataBase Testing\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\FNASCIME\source\repos\Cloud DataBase Testing\Cloud DataBase Testing\obj\Debug\net6.0\Cloud DataBase Testing.csproj.AssemblyReference.cache
+C:\Users\FNASCIME\source\repos\Cloud DataBase Testing\Cloud DataBase Testing\obj\Debug\net6.0\Cloud DataBase Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FNASCIME\source\repos\Cloud DataBase Testing\Cloud DataBase Testing\obj\Debug\net6.0\Cloud DataBase Testing.AssemblyInfoInputs.cache
+C:\Users\FNASCIME\source\repos\Cloud DataBase Testing\Cloud DataBase Testing\obj\Debug\net6.0\Cloud DataBase Testing.AssemblyInfo.cs
+C:\Users\FNASCIME\source\repos\Cloud DataBase Testing\Cloud DataBase Testing\obj\Debug\net6.0\Cloud DataBase Testing.csproj.CoreCompileInputs.cache
+C:\Users\FNASCIME\source\repos\Cloud DataBase Testing\Cloud DataBase Testing\obj\Debug\net6.0\Cloud DataBase Testing.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\FNASCIME\source\repos\Cloud DataBase Testing\Cloud DataBase Testing\obj\Debug\net6.0\Cloud DataBase Testing.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FNASCIME\source\repos\Cloud DataBase Testing\Cloud DataBase Testing\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\FNASCIME\source\repos\Cloud DataBase Testing\Cloud DataBase Testing\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\FNASCIME\source\repos\Cloud DataBase Testing\Cloud DataBase Testing\obj\Debug\net6.0\scopedcss\bundle\Cloud DataBase Testing.styles.css
+C:\Users\FNASCIME\source\repos\Cloud DataBase Testing\Cloud DataBase Testing\obj\Debug\net6.0\Cloud DataBase Testing.csproj.CopyComplete
+C:\Users\FNASCIME\source\repos\Cloud DataBase Testing\Cloud DataBase Testing\obj\Debug\net6.0\Cloud DataBase Testing.dll
+C:\Users\FNASCIME\source\repos\Cloud DataBase Testing\Cloud DataBase Testing\obj\Debug\net6.0\refint\Cloud DataBase Testing.dll
+C:\Users\FNASCIME\source\repos\Cloud DataBase Testing\Cloud DataBase Testing\obj\Debug\net6.0\Cloud DataBase Testing.pdb
+C:\Users\FNASCIME\source\repos\Cloud DataBase Testing\Cloud DataBase Testing\obj\Debug\net6.0\Cloud DataBase Testing.genruntimeconfig.cache
+C:\Users\FNASCIME\source\repos\Cloud DataBase Testing\Cloud DataBase Testing\obj\Debug\net6.0\ref\Cloud DataBase Testing.dll
